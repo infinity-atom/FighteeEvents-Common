@@ -1,0 +1,40 @@
+{
+  "vanish": {
+    "enable": "{gray}Set own visibility to {blue}invisible",
+    "disable": "{gray}Set own visibility to {blue}visible"
+  },
+  "names": {
+    "owner": "{blue}<b>ᴏᴡɴᴇʀ</b> {0}",
+    "dev": "{purple}<b>ᴅᴇᴠ</b> {0}",
+    "mod": "{green}<b>ᴍᴏᴅ</b> {0}"
+  },
+  "chat": {
+    "join": "{gray}[{green}+{gray}] {0} joined",
+    "quit": "{gray}[{red}-{gray}] {0} left",
+    "chat": " {gray}» {0}",
+    "death": "<dark_red>☠ {0}",
+    "whisper_outbound": "{blue}[YOU -> {0}] {gray}» {1}",
+    "whisper_inbound": "{blue}[{0} -> YOU] {gray}» {1}",
+    "announcement": "{blue}<b>ꜱʏꜱᴛᴇᴍ</b> Announcement {gray}» {0}"
+  },
+  "generic": {
+    "unknown_player": "{red}That player does not exist!"
+  },
+  "gamemode": {
+    "creative": "{gray}Set own game mode to {blue}creative",
+    "spectator": "{gray}Set own game mode to {blue}spectator"
+  },
+  "revive": {
+    "announcement": "{0} was revived",
+    "success": "{gray}Revived the player {blue}{0}"
+  },
+  "request": {
+    "host": "{blue}{0} {gray}is requesting a host for assistance. {blue}<click:run_command:'/tp {0}'>[GOTO]</click>",
+    "success": "{gray}Request sent.",
+    "mod": "{blue}{0} {gray}is requesting a mod for assistance. {blue}<click:run_command:'/tp {0}'>[GOTO]</click>"
+  },
+  "tablist": {
+    "header": "                     \n{blue}<b>ꜰɪɢʜᴛᴇᴇ ᴇᴠᴇɴᴛꜱ</b>\n",
+    "footer": "\n{gray}Ping {blue}{0} {gray}| Kills {blue}{1} {gray}\n"
+  }
+}

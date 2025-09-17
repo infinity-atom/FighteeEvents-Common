@@ -1,0 +1,7 @@
+name: FighteeEventCommon
+version: '1.0'
+main: me.lennyd.fightee.common.Main
+api-version: '1.21.5'
+authors: [ 01lenny ]
+description: Fightee Events Common Plugin
+website: lennyd.me
